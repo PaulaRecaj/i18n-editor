@@ -1,5 +1,7 @@
 THIS PROJECT IS NO LONGER MAINTAINED
 
+"Prueba para uso universitario - UPV EHU Ingeniería informática"
+
 # i18n-editor [![Build Status](https://travis-ci.org/jcbvm/i18n-editor.svg?branch=master)](https://travis-ci.org/jcbvm/i18n-editor)
 
 This application lets you manage multiple translation files at once.<br>
